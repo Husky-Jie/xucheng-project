@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d19f84b7-57dc-4895-aaf9-1ee7b670702d" name="Default Changelist" comment="提交部分模块" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2NuwjEvpPyPVFdscb9GV58M3zIl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xuecheng-plus-parent" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1640625" />
+    <property name="project.structure.side.proportion" value="0.25763124" />
+    <property name="rest.client.default.execution.environment" value="dev" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java学习\xucheng-project\xuecheng-plus-parent\xuecheng-plus-gateway\src\main\resources" />
+      <recent name="D:\Java学习\xucheng-project\xuecheng-plus-parent\xuecheng-plus-system\xuecheng-plus-system-service\src\main\resources" />
+      <recent name="D:\Java学习\xucheng-project\xuecheng-plus-parent\xuecheng-plus-content\xuecheng-plus-content-service\src\main\resources" />
+      <recent name="D:\Java学习\xucheng-project\xuecheng-plus-parent\xuecheng-plus-content\xuecheng-plus-content-model\src\main\java\com\husky\model\dto" />
+      <recent name="D:\Java学习\xucheng-project\xuecheng-plus-parent\xuecheng-plus-system\xuecheng-plus-system-api\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.husky.base.config" />
+      <recent name="com.husky.system.config" />
+      <recent name="com.husky.content.config" />
+      <recent name="com.husky" />
+      <recent name="com.husky.system.mapper" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/course/list" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageNo" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;auditStatus&quot;: &quot;&quot;,&#10;  &quot;courseName&quot;: &quot;java&quot;,&#10;  &quot;publishStatus&quot;: &quot;&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.XueChengPlusContentApiApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeachplanTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xuecheng-plus-content-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.husky.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.husky" />
+      <option name="MAIN_CLASS_NAME" value="com.husky.TeachplanTest" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xuecheng-plus-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.husky.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.husky.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xuecheng-plus-system-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.husky.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.husky.system.SystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XueChengPlusContentApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xuecheng-plus-content-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.husky.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.husky.XueChengPlusContentApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TeachplanTest.name" />
+      <item itemvalue="Spring Boot.SystemApplication" />
+      <item itemvalue="Spring Boot.XueChengPlusContentApiApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GatewayApplication" />
+        <item itemvalue="Spring Boot.XueChengPlusContentApiApplication" />
+        <item itemvalue="Spring Boot.SystemApplication" />
+        <item itemvalue="JUnit.TeachplanTest.name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d19f84b7-57dc-4895-aaf9-1ee7b670702d" name="Default Changelist" comment="" />
+      <created>1680527408818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680527408818</updated>
+      <workItem from="1680527409942" duration="5575000" />
+      <workItem from="1680766399569" duration="1559000" />
+      <workItem from="1680768660401" duration="1025000" />
+      <workItem from="1680769730176" duration="1664000" />
+      <workItem from="1680771561319" duration="8342000" />
+      <workItem from="1680789850773" duration="3179000" />
+      <workItem from="1680854654493" duration="6219000" />
+      <workItem from="1680880141699" duration="7000" />
+      <workItem from="1680928212578" duration="100000" />
+      <workItem from="1680937464948" duration="14516000" />
+      <workItem from="1681007906339" duration="11000" />
+      <workItem from="1681026106133" duration="8892000" />
+      <workItem from="1681043299538" duration="8223000" />
+      <workItem from="1681086712872" duration="106000" />
+      <workItem from="1681094578975" duration="12000" />
+      <workItem from="1681122100349" duration="5852000" />
+      <workItem from="1681270112376" duration="1006000" />
+      <workItem from="1681287655112" duration="6911000" />
+      <workItem from="1681305801578" duration="11126000" />
+      <workItem from="1681352711336" duration="772000" />
+      <workItem from="1681369619466" duration="10776000" />
+      <workItem from="1681477088890" duration="39000" />
+      <workItem from="1681546445511" duration="7256000" />
+      <workItem from="1681568370229" duration="7662000" />
+      <workItem from="1681613597560" duration="34000" />
+      <workItem from="1681629460843" duration="10059000" />
+      <workItem from="1682149027598" duration="1708000" />
+      <workItem from="1682151571331" duration="399000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交父工程和base工程">
+      <created>1680528839966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680528839966</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交父工程和base工程">
+      <created>1680529133387</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680529133387</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交内容管理模块">
+      <created>1682149317652</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682149317652</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/xuecheng-plus-parent" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="提交父工程和base工程" />
+    <MESSAGE value="提交内容管理模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交内容管理模块" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="teachplanDtos.get(0).teachPlanTreeNodes.get(0)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+POST http://localhost:63040/course/list?pageNo=2&pageSize=10
+Content-Type: application/json
+
+{
+  "auditStatus": "",
+  "courseName": "java",
+  "publishStatus": ""
+}
+
+<> 2023-04-07T172402.404.html
+
+###
+
+POST http://localhost:63040/course/list?pageNo=2&pageSize=10
+Content-Type: application/json
+
+{
+  "auditStatus": "",
+  "courseName": "java",
+  "publishStatus": ""
+}
+
+<> 2023-04-07T172359.404.html
+
+###
+
+POST http://localhost:63040/course/list?pageNo=2&pageSize=10
+Content-Type: application/json
+
+{
+  "auditStatus": "",
+  "courseName": "java",
+  "publishStatus": ""
+}
+
+<> 2023-04-07T172348.404.html
+
+###
+

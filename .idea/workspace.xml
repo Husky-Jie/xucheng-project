@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d19f84b7-57dc-4895-aaf9-1ee7b670702d" name="Default Changelist" comment="" />
+    <list default="true" id="d19f84b7-57dc-4895-aaf9-1ee7b670702d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/husky/content/api/CourseTeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/husky/content/api/CourseTeacherController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,8 +196,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.GatewayApplication" />
         <item itemvalue="Spring Boot.XueChengPlusContentApiApplication" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
         <item itemvalue="Spring Boot.SystemApplication" />
         <item itemvalue="JUnit.TeachplanTest.name" />
       </list>
@@ -235,7 +238,7 @@
       <workItem from="1681613597560" duration="34000" />
       <workItem from="1681629460843" duration="10059000" />
       <workItem from="1682149027598" duration="1708000" />
-      <workItem from="1682151571331" duration="822000" />
+      <workItem from="1682151571331" duration="2075000" />
     </task>
     <task id="LOCAL-00001" summary="提交父工程和base工程">
       <created>1680528839966</created>

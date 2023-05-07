@@ -4,9 +4,628 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d19f84b7-57dc-4895-aaf9-1ee7b670702d" name="Default Changelist" comment="">
+    <list default="true" id="d19f84b7-57dc-4895-aaf9-1ee7b670702d" name="Default Changelist" comment="git配置文件">
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/course/course_template copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/course/course_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/course/learning - 副本.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/course/learning.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/course/learning_old.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/course/search - 副本 (2).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/course/search - 副本.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/course/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/course/test111.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/el/fonts/element-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/el/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/el/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/el/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-compet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-article-ask.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-article-catalog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-article-code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-article-comment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-article-note.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-article.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-career.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-course-answer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-course-document.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-course-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-course-problem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-course-score.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-course-text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-course-video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-course-videoes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-course-week-info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-course-week.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-forget-password.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-note-release-success.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-note-release.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-order-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-pay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-personal-all-course.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-personal-allclass.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-personal-collection.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-personal-go-pay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-personal-mail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-personal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-problem-feedback.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-setting.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-sign.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-student-register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-teacher-info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/page-learing-teacher-register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/webuploader/webuploader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-header-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-article-ask-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-article-banner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-article-catalog-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-article-code-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-article-comment-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-article-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-article-left-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-article-note-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-career-content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-conten-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-course-answer-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-course-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-course-document-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-course-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-course-page-left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-course-page-rit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-course-problem-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-course-score-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-course-text-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-course-week-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-course-week-info-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-course-weeklist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-index-bot-video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-index-cont-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-index-gotop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-index-interest.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-list-cont-left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-list-cont-right.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-list-title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-personal-cont-bottom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-personal-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-personal-head.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-personal-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-recommend.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-learing-setting-cont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-travel-index-imgroll.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/css/widget-travel-index-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/findpassword.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/add.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-icoGather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-login_img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-logoIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-myImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-personalIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-scorbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-setIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-star-show.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-star.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-starGrey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-starGreya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-stara.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-temp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-timg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-vid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-学成网学习中心-我的订单-待付款.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/asset-学成网学习中心-课程表-去支付.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/nonepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/page-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/page-labIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/page-payIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/page-regIco.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/page-register_img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/page-step2013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/page-success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/page-timg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/page-topIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/page-verif.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/qrcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/studyuser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/teacherpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/weixin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-GradeA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-GradeB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-GradeC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-banner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-banner3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-bannerA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-bannerB.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-bannerBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-btnBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-c.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-codeico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-dem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-demo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-demo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-demo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-demo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-demo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-hotIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-icoGather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-icon0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-ind-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-ind-left1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-ind-top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-ind-top1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-learNumIco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-myImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-popbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-scorbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-star.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-starGrey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-teach-adv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-teach1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-teach2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-teach3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-teach4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-timg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-titBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-topBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-vid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-video.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/img/widget-watermark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/include/404.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/include/BestTop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/include/course_detail_dynamic copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/include/course_detail_dynamic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/include/course_detail_dynamic1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/include/course_detail_side.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/include/dd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/include/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/include/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/include/index_banner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/include/index_category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/include/ucenter_menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/axios/axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/axios/axios.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/axios0.16.2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/base64.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/jwt-decode/jwt-decode.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/learning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/page-learing-forget-password.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/page-learing-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/page-learing-sign.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/page-learing-student-register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/page-learing-teacher-register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/public.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/qs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/querystring/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/vue.global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/vue/vue.min - 副本 (2).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/vue/vue.min - 副本.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/vue/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/widget-travel-index-nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/js/wxlogin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/grunt/bs-commonjs-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/grunt/bs-glyphicons-data-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/grunt/bs-lessdoc-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/grunt/bs-raw-files-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/grunt/change-version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/grunt/configBridge.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/grunt/npm-shrinkwrap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/grunt/sauce_browsers.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/js/affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/js/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/js/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/js/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/js/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/js/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/js/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/js/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/js/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/js/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/alerts.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/badges.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/bootstrap.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/breadcrumbs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/button-groups.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/buttons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/carousel.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/close.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/code.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/component-animations.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/dropdowns.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/forms.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/glyphicons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/input-groups.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/jumbotron.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/labels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/list-group.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/media.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/alerts.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/background-variant.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/border-radius.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/buttons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/center-block.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/clearfix.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/forms.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/gradients.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/grid-framework.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/hide-text.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/image.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/labels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/list-group.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/nav-divider.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/nav-vertical-align.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/opacity.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/pagination.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/panels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/progress-bar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/reset-filter.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/reset-text.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/resize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/responsive-visibility.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/size.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/tab-focus.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/table-row.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/text-emphasis.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/text-overflow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/mixins/vendor-prefixes.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/modals.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/navbar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/navs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/normalize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/pager.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/pagination.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/panels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/popovers.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/print.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/progress-bars.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/responsive-embed.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/responsive-utilities.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/scaffolding.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/tables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/thumbnails.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/tooltip.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/type.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/utilities.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/less/wells.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/nuget/MyGet.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/nuget/bootstrap.less.nuspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/nuget/bootstrap.nuspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/package.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/bootstrap/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer/ckplayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer/ckplayer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer/ckplayer.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer/ckplayer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer/hls/hls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer/hls/hls.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer/language.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer/style.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/ckplayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/ckplayer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/ckplayer.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/ckplayer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/language.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/m3u8.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/related.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/share.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/share/feixin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/share/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/share/kaixin001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/share/msn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/share/qq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/share/qq2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/share/qzone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/share/rr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/share/sina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/share/sohu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/share/tianya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/style.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/ckplayer2/style.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/AUTHORS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/dist/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/dist/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/dist/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/dist/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/dist/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/dist/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/dist/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/external/sizzle/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/external/sizzle/dist/sizzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/external/sizzle/dist/sizzle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/external/sizzle/dist/sizzle.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/ajax/jsonp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/ajax/load.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/ajax/parseJSON.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/ajax/parseXML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/ajax/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/ajax/var/location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/ajax/var/nonce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/ajax/var/rquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/ajax/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/attributes/attr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/attributes/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/attributes/prop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/attributes/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/attributes/val.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/core/DOMEval.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/core/access.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/core/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/core/nodeName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/core/parseHTML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/core/ready-no-deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/core/ready.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/core/readyException.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/core/stripAndCollapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/core/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/core/var/rsingleTag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/css/addGetHookIf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/css/adjustCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/css/curCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/css/defaultDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/css/hiddenVisibleSelectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/css/showHide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/css/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/css/var/cssExpand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/css/var/getStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/css/var/isHidden.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/css/var/isHiddenWithinTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/css/var/rmargin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/css/var/rnumnonpx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/css/var/swap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/data/Data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/data/var/acceptData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/data/var/dataPriv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/data/var/dataUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/deferred/exceptionHook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/deprecated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/dimensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/effects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/effects/Tween.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/effects/animatedSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/event/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/event/alias.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/event/focusin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/event/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/event/trigger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/exports/amd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/exports/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/intro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/manipulation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/manipulation/_evalUrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/manipulation/buildFragment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/manipulation/getAll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/manipulation/setGlobalEval.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/manipulation/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/manipulation/var/rcheckableType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/manipulation/var/rscriptType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/manipulation/var/rtagName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/manipulation/wrapMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/offset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/outro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/queue/delay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/selector-native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/selector-sizzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/serialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/traversing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/traversing/findFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/traversing/var/dir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/traversing/var/rneedsContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/traversing/var/siblings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/ObjectFunctionString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/arr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/class2type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/concat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/documentElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/fnToString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/getProto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/hasOwn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/indexOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/pnum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/push.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/rcssNum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/rnothtmlwhite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/rnotwhite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/var/toString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/jquery/src/wrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/js-pdf/NodeJSDeveloperGuid.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/js-pdf/exmaple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/js-pdf/jquery.media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/normalize-css/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/normalize-css/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/normalize-css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/rainbow-custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/rainbow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/videojs/video-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/videojs/video-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/videojs/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/videojs/video.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/videojs/videojs-contrib-hls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/videojs/videojs-contrib-hls.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/webuploader/dist/Uploader.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/webuploader/dist/webuploader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/plugins/webuploader/webuploader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/sign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/ucenter/collection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/ucenter/index copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/ucenter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/ucenter/modify_nickname.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/ucenter/modifyinfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/ucenter/orders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-ui-pc-static-portal/wxsign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/http/xc-auth-api.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/http/xc-checkcode-api.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/AuthApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/auth/config/AuthorizationServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/auth/config/DaoAuthenticationProviderCustom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/auth/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/auth/config/TokenConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/auth/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/auth/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/auth/controller/WxLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/feignclient/CheckCodeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/feignclient/CheckCodeClientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcCompanyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcCompanyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcCompanyUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcCompanyUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcMenuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcMenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcPermissionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcPermissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcRoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcTeacherMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcTeacherMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcUserRoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/mapper/XcUserRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/model/dto/AuthParamsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/model/dto/XcUserExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/model/po/XcCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/model/po/XcCompanyUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/model/po/XcMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/model/po/XcPermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/model/po/XcRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/model/po/XcTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/model/po/XcUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/model/po/XcUserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/service/WxAuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/service/impl/PasswordAuthServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/java/com/husky/ucenter/service/impl/WxAuthServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/src/main/resources/log4j2-dev.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-base/src/main/java/com/husky/base/model/RestResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-base/src/main/java/com/husky/base/utils/EncryptUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/src/main/java/com/xuecheng/checkcode/CheckcodeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/src/main/java/com/xuecheng/checkcode/config/KaptchaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/src/main/java/com/xuecheng/checkcode/controller/CheckCodeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/src/main/java/com/xuecheng/checkcode/model/CheckCodeParamsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/src/main/java/com/xuecheng/checkcode/model/CheckCodeResultDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/src/main/java/com/xuecheng/checkcode/service/AbstractCheckCodeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/src/main/java/com/xuecheng/checkcode/service/CheckCodeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/src/main/java/com/xuecheng/checkcode/service/impl/MemoryCheckCodeStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/src/main/java/com/xuecheng/checkcode/service/impl/NumberLetterCheckCodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/src/main/java/com/xuecheng/checkcode/service/impl/PicCheckCodeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/src/main/java/com/xuecheng/checkcode/service/impl/RedisCheckCodeStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/src/main/java/com/xuecheng/checkcode/service/impl/UUIDKeyGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/src/main/resources/log4j2-dev.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/src/test/java/com/xuecheng/checkcode/XuechengPlusCheckcodeApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/husky/content/config/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/husky/content/config/TokenConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/husky/content/util/SecurityUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-gateway/src/main/java/com/husky/gateway/config/GatewayAuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-gateway/src/main/java/com/husky/gateway/config/RestErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-gateway/src/main/java/com/husky/gateway/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-gateway/src/main/java/com/husky/gateway/config/TokenConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-gateway/src/main/resources/security-whitelist.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-07T172348.404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-07T172359.404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-07T172402.404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/husky/content/api/CourseTeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/husky/content/api/CourseTeacherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-xczx2-portal-vue-ts/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project-xczx2-portal-vue-ts/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-base/src/main/java/com/husky/base/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-base/src/main/java/com/husky/base/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-base/target/classes/com/husky/base/exception/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-base/target/classes/com/husky/base/exception/GlobalExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/husky/content/api/CourseBaseInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/husky/content/api/CourseBaseInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-api/target/classes/com/husky/content/api/CourseBaseInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-api/target/classes/com/husky/content/api/CourseBaseInfoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-api/xuecheng-plus-content-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-api/xuecheng-plus-content-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-service/src/main/java/com/husky/service/CourseBaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-service/src/main/java/com/husky/service/CourseBaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-service/src/main/java/com/husky/service/impl/CourseBaseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/xuecheng-plus-content-service/src/main/java/com/husky/service/impl/CourseBaseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-gateway/xuecheng-plus-gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-gateway/xuecheng-plus-gateway.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,12 +635,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -33,11 +657,14 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="2NuwjEvpPyPVFdscb9GV58M3zIl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -48,7 +675,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/xuecheng-plus-parent" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,17 +686,22 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1640625" />
     <property name="project.structure.side.proportion" value="0.25763124" />
-    <property name="rest.client.default.execution.environment" value="dev" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.husky.ucenter.feignclient" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java学习\xucheng-project\xuecheng-plus-parent\xuecheng-plus-base\src\main\java\com\husky\base\utils" />
+      <recent name="D:\Java学习\xucheng-project\xuecheng-plus-parent\xuecheng-plus-base\src\main\java\com\husky\base\model" />
       <recent name="D:\Java学习\xucheng-project\xuecheng-plus-parent\xuecheng-plus-gateway\src\main\resources" />
-      <recent name="D:\Java学习\xucheng-project\xuecheng-plus-parent\xuecheng-plus-system\xuecheng-plus-system-service\src\main\resources" />
-      <recent name="D:\Java学习\xucheng-project\xuecheng-plus-parent\xuecheng-plus-content\xuecheng-plus-content-service\src\main\resources" />
-      <recent name="D:\Java学习\xucheng-project\xuecheng-plus-parent\xuecheng-plus-content\xuecheng-plus-content-model\src\main\java\com\husky\model\dto" />
-      <recent name="D:\Java学习\xucheng-project\xuecheng-plus-parent\xuecheng-plus-system\xuecheng-plus-system-api\src\main\resources" />
+      <recent name="D:\Java学习\xucheng-project\xuecheng-plus-parent\xuecheng-plus-gateway\src\main\java\com\husky\gateway\config" />
+      <recent name="D:\Java学习\xucheng-project\xuecheng-plus-parent\xuecheng-plus-content\xuecheng-plus-content-api\src\main\java\com\husky\content\config" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.husky.base.config" />
@@ -82,6 +714,1062 @@
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63075/checkcode/verify" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="key" />
+                <option name="value" value="checkcode:78a34e471e0a41b98faf8d71ff6e3a8b" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="code" />
+                <option name="value" value="6vm3" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63075/checkcode/verify" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="key" />
+                <option name="value" value="checkcode:78a34e471e0a41b98faf8d71ff6e3a8b" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="code" />
+                <option name="value" value="3J0D" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63075/checkcode/pic" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63075/checkcode/verify" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="key" />
+                <option name="value" value="checkcode:8a2bd501b57c43348c02cf134398bc11" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="code" />
+                <option name="value" value="3J0D" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63075/checkcode/verify" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="key" />
+                <option name="value" value="checkcode:8a2bd501b57c43348c02cf134398bc11" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="code" />
+                <option name="value" value="3JOD" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63075/checkcode/verify" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="key" />
+                <option name="value" value="checkcode:8a2bd501b57c43348c02cf134398bc11" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="code" />
+                <option name="value" value="3j0d" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63075/checkcode/verify" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="key" />
+                <option name="value" value="checkcode:8a2bd501b57c43348c02cf134398bc11" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="code" />
+                <option name="value" value="3jod" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63075/checkcode/verify" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="key" />
+                <option name="value" value="checkcode:8a2bd501b57c43348c02cf134398bc11" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="code" />
+                <option name="value" value="70dl" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/oauth/token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="{&quot;username&quot;:&quot;t1&quot;, &quot;password&quot;:&quot;111111&quot;, &quot;authType&quot;:&quot;password&quot;}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63010/content/course/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmctcGx1cyJdLCJ1c2VyX25hbWUiOiJ7XCJjcmVhdGVUaW1lXCI6XCIyMDIyLTA5LTI4VDA4OjMyOjAzXCIsXCJpZFwiOlwiNDZcIixcIm5hbWVcIjpcIui2hee6p-euoeeQhuWRmFwiLFwic2V4XCI6XCIxXCIsXCJzdGF0dXNcIjpcIjFcIixcInVzZXJuYW1lXCI6XCJzdXBlclwiLFwidXR5cGVcIjpcIjEwMTAwM1wifSIsInNjb3BlIjpbImFsbCJdLCJleHAiOjE2ODI0MzgxODMsImF1dGhvcml0aWVzIjpbInRlc3QiXSwianRpIjoiNDE1MGNkYTUtMTcxMS00OTg0LWE1ZjUtYzJhN2ZhZjRkYjYzIiwiY2xpZW50X2lkIjoiWGNXZWJBcHAifQ.iDBemXfYKUkPpNewj6Arv3G8sNKekIE7Qj9dpy_yAw0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/oauth/check_token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmctcGx1cyJdLCJ1c2VyX25hbWUiOiJ7XCJjcmVhdGVUaW1lXCI6XCIyMDIyLTA5LTI4VDA4OjMyOjAzXCIsXCJpZFwiOlwiNDZcIixcIm5hbWVcIjpcIui2hee6p-euoeeQhuWRmFwiLFwic2V4XCI6XCIxXCIsXCJzdGF0dXNcIjpcIjFcIixcInVzZXJuYW1lXCI6XCJzdXBlclwiLFwidXR5cGVcIjpcIjEwMTAwM1wifSIsInNjb3BlIjpbImFsbCJdLCJleHAiOjE2ODI0MzgxODMsImF1dGhvcml0aWVzIjpbInRlc3QiXSwianRpIjoiNDE1MGNkYTUtMTcxMS00OTg0LWE1ZjUtYzJhN2ZhZjRkYjYzIiwiY2xpZW50X2lkIjoiWGNXZWJBcHAifQ.iDBemXfYKUkPpNewj6Arv3G8sNKekIE7Qj9dpy_yAw0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/oauth/token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="super" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="111111" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/oauth/token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="super" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="1111112" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/oauth/token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="zhangsan" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63010/content/course/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmctcGx1cyJdLCJ1c2VyX25hbWUiOiJ6aGFuZ3NhbiIsInNjb3BlIjpbImFsbCJdLCJleHAiOjE2ODIzNTQ1ODEsImF1dGhvcml0aWVzIjpbInAxIl0sImp0aSI6IjkwNDRiY2E4LWJhMjktNDU4My05ODM1LWQzNzBiNTlhNzg1ZCIsImNsaWVudF9pZCI6IlhjV2ViQXBwIn0.4r_5oqq5MQ3MOqoPW9K6jYHVagL8nPDQHKcBwOIeCiU" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63010/content/course/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmctcGx1cyJdLCJ1c2VyX25hbWUiOiJ6aGFuZ3NhbiIsInNjb3BlIjpbImFsbCJdLCJleHAiOjE2ODIzNTQ1ODEsImF1dGhvcml0aWVzIjpbInAxIl0sImp0aSI6IjkwNDRiY2E4LWJhMjktNDU4My05ODM1LWQzNzBiNTlhNzg1ZCIsImNsaWVudF9pZCI6IlhjV2ViQXBwIn0.4r_5oqq5MQ3MOqoPW9K6jYHVagL8nPDQHKcBwOIeCiU" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="4871AD09108B1AEB754A7B8ECDAEDAA8" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63010/content/course/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="5EAFCCD5DAEF46CBBB47558568EB0ACA" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/oauth/token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="zhangsan" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="5EAFCCD5DAEF46CBBB47558568EB0ACA" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/oauth/check_token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmctcGx1cyJdLCJ1c2VyX25hbWUiOiJ6aGFuZ3NhbiIsInNjb3BlIjpbImFsbCJdLCJleHAiOjE2ODIzNDg3NzUsImF1dGhvcml0aWVzIjpbInAxIl0sImp0aSI6ImJkMTlhZjgxLWFjMTAtNDBkYS1hYWQ5LTgyYjY0MWQ4MDExYSIsImNsaWVudF9pZCI6IlhjV2ViQXBwIn0.0cHQ3-J9Gh-HsVFwdnlpLw8EK5cA5PLWMA0XABg66xg" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="8D1DBB86DFF5C09DA56D60E0B8981F7D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/oauth/token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="zhangsan" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="52AEFF9F9FE65A2C9E61F81717262367" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/oauth/token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="authorization_code" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="code" />
+                <option name="value" value="ebbPBC" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="redirect_uri" />
+                <option name="value" value="http://www.51xuecheng.cn/" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="52AEFF9F9FE65A2C9E61F81717262367" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63071/auth/oauth/authorize" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="response_type" />
+                <option name="value" value="code" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="scope" />
+                <option name="value" value="all" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="redirect_uri" />
+                <option name="value" value="http://www.51xuecheng.cn" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="52AEFF9F9FE65A2C9E61F81717262367" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/oauth/check_token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmctcGx1cyJdLCJ1c2VyX25hbWUiOiJ6aGFuZ3NhbiIsInNjb3BlIjpbImFsbCJdLCJleHAiOjE2ODIzNDg3NzUsImF1dGhvcml0aWVzIjpbInAxIl0sImp0aSI6ImJkMTlhZjgxLWFjMTAtNDBkYS1hYWQ5LTgyYjY0MWQ4MDExYSIsImNsaWVudF9pZCI6IlhjV2ViQXBwIn0.0cHQ3-J9Gh-HsVFwdnlpLw8EK5cA5PLWMA0XABg66xg" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="52AEFF9F9FE65A2C9E61F81717262367" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/oauth/check_token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmctcGx1cyJdLCJ1c2VyX25hbWUiOiJ6aGFuZ3NhbiIsInNjb3BlIjpbImFsbCJdLCJleHAiOjE2ODIzNDg3NzUsImF1dGhvcml0aWVzIjpbInAxIl0sImp0aSI6ImJkMTlhZjgxLWFjMTAtNDBkYS1hYWQ5LTgyYjY0MWQ4MDExYSIsImNsaWVudF9pZCI6IlhjV2ViQXBwIn0.0cHQ3-J9Gh-HsVFwdnlpLw8EK5cA5PLWMA0XABg66xg" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="zhangsan" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="52AEFF9F9FE65A2C9E61F81717262367" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/oauth/token_check" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmctcGx1cyJdLCJ1c2VyX25hbWUiOiJ6aGFuZ3NhbiIsInNjb3BlIjpbImFsbCJdLCJleHAiOjE2ODIzNDg3NzUsImF1dGhvcml0aWVzIjpbInAxIl0sImp0aSI6ImJkMTlhZjgxLWFjMTAtNDBkYS1hYWQ5LTgyYjY0MWQ4MDExYSIsImNsaWVudF9pZCI6IlhjV2ViQXBwIn0.0cHQ3-J9Gh-HsVFwdnlpLw8EK5cA5PLWMA0XABg66xg" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="zhangsan" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="B944E9382F26E0C96604F2B8C21710A0" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/oauth/token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="zhangsan" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="B944E9382F26E0C96604F2B8C21710A0" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="zhangsan" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="B944E9382F26E0C96604F2B8C21710A0" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63071/auth/user/45" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="B944E9382F26E0C96604F2B8C21710A0" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63071/auth/r/r2" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="B944E9382F26E0C96604F2B8C21710A0" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63071/auth/r/r1" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/auth" />
+                <option name="value" value="B944E9382F26E0C96604F2B8C21710A0" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/r/r1" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63071/auth/token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="zhangsan" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://localhost:63040/course/list" />
@@ -121,30 +1809,29 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.XueChengPlusContentApiApplication">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TeachplanTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xuecheng-plus-content-service" />
+  <component name="RunManager" selected="Spring Boot.AuthApplication">
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xuecheng-plus-auth" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.husky.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.husky" />
-      <option name="MAIN_CLASS_NAME" value="com.husky.TeachplanTest" />
-      <option name="METHOD_NAME" value="name" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.husky.AuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckcodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xuecheng-plus-checkcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.checkcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.checkcode.CheckcodeApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -189,17 +1876,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TeachplanTest.name" />
+      <item itemvalue="Spring Boot.CheckcodeApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.AuthApplication" />
       <item itemvalue="Spring Boot.SystemApplication" />
       <item itemvalue="Spring Boot.XueChengPlusContentApiApplication" />
-      <item itemvalue="Spring Boot.GatewayApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.AuthApplication" />
         <item itemvalue="Spring Boot.XueChengPlusContentApiApplication" />
-        <item itemvalue="Spring Boot.GatewayApplication" />
         <item itemvalue="Spring Boot.SystemApplication" />
-        <item itemvalue="JUnit.TeachplanTest.name" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+        <item itemvalue="Spring Boot.CheckcodeApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +1927,19 @@
       <workItem from="1681613597560" duration="34000" />
       <workItem from="1681629460843" duration="10059000" />
       <workItem from="1682149027598" duration="1708000" />
-      <workItem from="1682151571331" duration="2075000" />
+      <workItem from="1682151571331" duration="7291000" />
+      <workItem from="1682170479844" duration="2094000" />
+      <workItem from="1682340167256" duration="9125000" />
+      <workItem from="1682426291902" duration="7008000" />
+      <workItem from="1682771653452" duration="4119000" />
+      <workItem from="1682942654228" duration="6037000" />
+      <workItem from="1683210489458" duration="7000" />
+      <workItem from="1683272112374" duration="4131000" />
+      <workItem from="1683293981251" duration="4018000" />
+      <workItem from="1683299441143" duration="903000" />
+      <workItem from="1683376531090" duration="6938000" />
+      <workItem from="1683425985844" duration="319000" />
+      <workItem from="1683445221587" duration="6323000" />
     </task>
     <task id="LOCAL-00001" summary="提交父工程和base工程">
       <created>1680528839966</created>
@@ -268,7 +1969,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682152344771</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修改内容模块">
+      <created>1682154022786</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682154022786</updated>
+    </task>
+    <task id="LOCAL-00006" summary="git配置文件">
+      <created>1682154322108</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682154322108</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +2002,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/xuecheng-plus-parent" />
       <path value="$PROJECT_DIR$" />
@@ -294,7 +2010,9 @@
     <MESSAGE value="提交父工程和base工程" />
     <MESSAGE value="提交内容管理模块" />
     <MESSAGE value="提交部分模块" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交部分模块" />
+    <MESSAGE value="修改内容模块" />
+    <MESSAGE value="git配置文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="git配置文件" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

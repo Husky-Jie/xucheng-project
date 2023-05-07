@@ -41,7 +41,7 @@ public class GlobalExceptionHandler {
         log.error("系统异常{}", e.getMessage(), e);
 
         // 解析异常信息
-        RestErrorResponse restErrorResponse = new RestErrorResponse(CommonError.UNKOWN_ERROR.getErrMessage());
+        RestErrorResponse restErrorResponse = new RestErrorResponse("您没有权限操作此功能");
         return restErrorResponse;
     }
 

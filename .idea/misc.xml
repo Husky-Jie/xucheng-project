@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-content/pom.xml" />
         <option value="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/xuecheng-plus-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-parent/xuecheng-plus-checkcode/pom.xml" />
       </list>
     </option>
   </component>

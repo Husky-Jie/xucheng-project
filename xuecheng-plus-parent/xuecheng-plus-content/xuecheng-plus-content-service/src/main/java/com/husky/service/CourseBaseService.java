@@ -19,7 +19,7 @@ import com.husky.model.entity.CourseBase;
 public interface CourseBaseService extends IService<CourseBase> {
 
     // 课程查询接口
-    PageResult<CourseBase> queryCourseBaseList(PageParams pageParams, QueryCourseParamsDto CourseParams);
+    PageResult<CourseBase> queryCourseBaseList(Long companyId, PageParams pageParams, QueryCourseParamsDto CourseParams);
 
     // 课程新增接口
 
